@@ -38,7 +38,7 @@
 #     return array2
 
 # length = int(input('Введите длину списка: '))
-# min = int(input('Введите минимальное значения для поиска: '))
+# min = int(input('Введите минимальное значение для поиска: '))
 # max = int(input('Введите максимальное значение для поиска: '))
 
 # array = create_filled_array(length)
